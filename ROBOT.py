@@ -55,3 +55,5 @@ if __name__ == "__main__":
 
     robot1.mostrar_estado()
     robot2.mostrar_estado()
+
+
